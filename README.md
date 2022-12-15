@@ -5,7 +5,7 @@
     This webpage was refactored to show the semantic listing of HTML elements. The elements follow a logical structure, independant of styling and positioning. Alt attributes have been added to all pictures to give further description. Headings given fall in sequential order within both HTML & CSS. 
 
     
-[Horiseon](/Horiseon.png "Horiseon image")
+[Horiseon](/assets/images/horiseon.png "Horiseon image")
 
 
 ## Installation
